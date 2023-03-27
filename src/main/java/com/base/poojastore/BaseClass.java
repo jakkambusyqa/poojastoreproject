@@ -19,7 +19,7 @@ public class BaseClass {
 
 	public BaseClass() {
 
-		String path = "C:\\Users\\jakkam sairam\\workspace\\PooojaStore\\src\\main\\java\\com\\configprop\\configproperties";
+		String path = "C:\\Users\\SRI\\git\\poojastoreproject\\src\\main\\java\\com\\configprop\\configproperties";
 		prop = new Properties();
 		try {
 			file = new FileInputStream(path);
